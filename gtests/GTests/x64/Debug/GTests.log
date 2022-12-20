@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\simon\Desktop\Proga\Labs\Lab4_Queue\TStack.h(29): warning C5037: "TStack<T>::TStack": внешнее определение члена шаблона класса не может иметь аргументы по умолчанию
+  GTests.vcxproj -> C:\Users\simon\Desktop\Proga\Labs\Lab4_Queue\build\x64\Debug\GTests.exe
